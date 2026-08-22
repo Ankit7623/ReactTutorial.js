@@ -9,7 +9,7 @@ const Navbar = (props) => {
   return (
     <div>
         <button onClick={changeTheme}>Change Theme</button>
-    </div>
+    </div> 
   )
 }
 
